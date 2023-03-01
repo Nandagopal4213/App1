@@ -12,3 +12,8 @@ with col2:
     Hi, I'm Hari! I'm a python developer, student, and a traveller.I have worked as a freelancer for more than 3 years. I'm leaving a life that i wish to the fullest.
     """
     st.info(content)
+
+content2 ="""
+Below you can find some of the apps I have bulit in python. Feel free to contact me!
+"""
+st.write(content2)
